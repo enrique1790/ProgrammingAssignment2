@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 ## makeCacheMatrix
 ## Make cache matrix the intitalization of two obj (x, Inv)
 ## Defines the "behaviors" or functions (Getters, Setters)
